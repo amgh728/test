@@ -1,2 +1,3 @@
-print("hello world")
-print("my name is amogh")
+print("Hello world")
+print("My name is amogh")
+print("Python is confusing")
